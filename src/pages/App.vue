@@ -1,6 +1,6 @@
 <template>
 	<h1>Archipelago Examiner</h1>
-	<a href="" target="_blank">Github</a>
+	<a href="https://github.com/mryamiouji/archipelago-examiner" target="_blank">Github</a>
 
 	<div class="flexcol">
 		<input type="text" placeholder="game" v-model="game" />
